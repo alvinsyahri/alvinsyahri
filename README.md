@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Chili Distributor Information System (Web-Bases)](https://github.com/syahsuri/cabe_app)
 
-- 🌱 I’m currently learning **Html, Css, Javascript, Laravel, Vue.js, Git**
+- 🌱 I’m currently learning **Html, Css, Javascript, Laravel, React JS, Express JS, Git**
 
 - 💬 Ask me about **Laravel**
 
